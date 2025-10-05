@@ -5,6 +5,7 @@
 Just enter the ingredients you have, and get instant recipe suggestions! Save time, reduce food waste, and make cooking easier with our smart, responsive website.
 
 **#Description**
+
 The Recipe Finder is a responsive web application that helps users decide what to cook based on the ingredients they have at home. By simply entering available ingredients, the app suggests a variety of recipes, helping to reduce food waste and save cooking time.
 
 It is designed to be user-friendly, interactive, and accessible on desktops, tablets, and mobile devices.
