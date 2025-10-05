@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RecipeFind - Smart Recipe Suggestions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-content">
+                <h1 class="logo">RecipeFind</h1>
+                <div class="nav-links">
+                    <a href="#home">Home</a>
+                    <a href="#about">About</a>
+                    <a href="#contact">Contact</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h2 class="hero-title">Turn your ingredients into delicious meals</h2>
+                <p class="hero-subtitle">Reduce food waste and discover recipes with what you already have</p>
+                
+                <div class="search-container">
+                    <div class="ingredient-input-wrapper">
+                        <input 
+                            type="text" 
+                            id="ingredientInput" 
+                            placeholder="Enter an ingredient (e.g., chicken, tomatoes, pasta)"
+                            class="ingredient-input"
+                        >
+                        <button id="addIngredient" class="btn-add">Add</button>
+                    </div>
+                    
+                    <div id="ingredientTags" class="ingredient-tags"></div>
+                    
+                    <button id="findRecipes" class="btn-primary">Find Recipes</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="recipes-section">
+            <div class="container">
+                <div id="recipesGrid" class="recipes-grid"></div>
+                <div id="emptyState" class="empty-state">
+                    <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <path d="M3 2l2.01 18.23L12 22l6.99-1.77L21 2z"/>
+                        <path d="M12 6v12M8 10h8M8 14h8"/>
+                    </svg>
+                    <h3>No recipes yet</h3>
+                    <p>Add some ingredients above to discover delicious recipes</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>RecipeFind</h3>
+                    <p>Smart recipe suggestions to reduce food waste</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <a href="#home">Home</a>
+                    <a href="#about">About</a>
+                    <a href="#recipes">Recipes</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <a href="mailto:hello@recipefind.com">hello@recipefind.com</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 RecipeFind. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
