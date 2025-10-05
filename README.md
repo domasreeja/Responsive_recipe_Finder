@@ -34,6 +34,13 @@ JavaScript – Dynamic behavior and recipe suggestion logic.
 
 <img width="1886" height="911" alt="Screenshot 2025-10-05 142255" src="https://github.com/user-attachments/assets/f0256d9e-b1ea-46dd-8935-5d26231115a3" />
 
+<img width="1849" height="878" alt="Screenshot 2025-10-05 142406" src="https://github.com/user-attachments/assets/656059ba-e5a5-476e-9d9a-5892340e74cc" />
+
+
+<img width="1867" height="912" alt="Screenshot 2025-10-05 142327" src="https://github.com/user-attachments/assets/8d7d9290-6347-4072-bfbe-f0b8696a3bf4" />
+
+<img width="1860" height="893" alt="Screenshot 2025-10-05 142431" src="https://github.com/user-attachments/assets/24614f28-f1dd-4a19-8733-08bf137a0e12" />
+
 
 **How to Run Locally**
 
