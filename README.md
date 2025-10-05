@@ -30,9 +30,15 @@ CSS3 – Styling and responsive design.
 
 JavaScript – Dynamic behavior and recipe suggestion logic.
 
+**Screenshots**
+
+<img width="1886" height="911" alt="Screenshot 2025-10-05 142255" src="https://github.com/user-attachments/assets/f0256d9e-b1ea-46dd-8935-5d26231115a3" />
+
+
 **How to Run Locally**
 
 Clone the repository:
+
 
 git clone <your-repo-url>
 
